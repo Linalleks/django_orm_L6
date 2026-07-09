@@ -1,3 +1,4 @@
-Django
-environs[django]
-Pillow
+Django==6.0.7
+django-debug-toolbar==7.*
+environs[django]==15.0.1
+Pillow==12.3.*
